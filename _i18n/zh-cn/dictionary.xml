@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">ONTAP 可帮助您创建存储基础架构、以降低成本、加快关键工作负载的运行速度、并保护和保护数据安全。</block>
+  <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">ONTAP 产品文档</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自动化</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">数据管理</block>
+  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">数据迁移</block>
+  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">数据保护</block>
+  <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">系统</block>
+  <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
+  <block id="9523e2611916570d7f12959f26121afb" category="sidebar">使用ONTAP 命令行界面和最新版本的ONTAP System Manager (ONTAP 9.7及更高版本)在数据中心部署和管理ONTAP 9数据管理软件。</block>
+  <block id="391aea2b8a642f755fa9fc56deaf7f9d" category="sidebar">ONTAP 自动化</block>
+  <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用ONTAP REST API和支持技术自动部署和管理ONTAP 存储系统。</block>
+  <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">ONTAP 命令</block>
+  <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">了解ONTAP 命令行界面中提供的命令。</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">使用基于阵列的集群和同步复制来保护存储、以实现持续可用性。</block>
+  <block id="353534d94bfe5cda4a518ae399d604c2" category="sidebar">AFF 和 FAS 文档</block>
+  <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">使用AFF and FAS 文档页面可查看有关如何安装、维护和升级AFF 和FAS 系统以及集群和存储交换机的信息。</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
+  <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 虚拟实例、使云存储更经济实惠、智能、合规且安全。</block>
+  <block id="49e3dd7d4b1caa914dbba9cd07313728" category="sidebar">《ONTAP EMS参考》</block>
+  <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">了解ONTAP 中的事件消息传送系统(EMS)事件。</block>
+  <block id="79e721357e358d77c4700c25c863fc37" category="sidebar">ONTAP SAN 主机配置</block>
+  <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">为NVMe、iSCSI和FC协议配置ONTAP SAN主机。</block>
+  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">ONTAP System Manager经典版</block>
+  <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">ONTAP 9.7及更早版本对ONTAP System Manager界面使用不同的布局。</block>
+  <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">ONTAP 7-模式过渡</block>
+  <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">将数据从传统7-模式过渡到现代集群存储平台。</block>
+  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">ONTAP 外部 LUN 导入</block>
+  <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">将LUN从第三方阵列和7-模式系统迁移到现代NetApp存储。</block>
+  <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
+  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在运行VMware ESXi虚拟机管理程序的各种商用硬件服务器上将ONTAP 部署为软件定义的存储设备。</block>
+  <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
+  <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用阵列LUN将E系列和第三方阵列呈现为ONTAP 提供的存储。</block>
+</blocks>
