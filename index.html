@@ -144,6 +144,17 @@
               $("#mysidebar").navgoco('toggle', true);
           });
 
+          $(".sidebar-nav-container").on("scroll", function() {
+            $.cookie("sidebarScroll", $(".sidebar-nav-container").scrollTop(), {
+              path    : "/zh-cn/ontap-family"  
+            });
+          });
+          $(function() {
+            if ($.cookie("sidebarScroll")) {
+              $(".sidebar-nav-container").scrollTop($.cookie("sidebarScroll"));
+            }
+          });
+
       });
 
   </script>
@@ -247,6 +258,8 @@
       </div>
 
       
+      
+      
       <div class="search-property-bar">
         <div id="search-demo-container" class="searchbox n-property-bar__search">
           <div id="react-search" 
@@ -259,7 +272,7 @@
           data-results-found="找到 {hitCount} 个结果"
           data-error-message="We're sorry, an issue occurred when fetching your results. Please try again."
           data-error-reset="Reset Search"
-          data-sk-es-pf-indexes="clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod"
+          data-sk-es-pf-indexes=""
           data-flavor=""></div>
           <button class="n-property-bar__search-toggle-button" type="button">
             <svg class="n-icon-search n-property-bar__search-toggle-button-icon" aria-labelledby="title">
@@ -578,11 +591,7 @@
         <div class="n-footer__copyright">
           <ul class="n-footer__copyright-list">
             <li class="n-footer__copyright-link">
-              <span class="n-footer__fine-print">想就我们的网站提供反馈?</span>
-              <a target="_self" href="javascript:netapp_mailto()">请告诉我们</a>
-            </li>
-            <li class="n-footer__copyright-link">
-              <a href="https://docs.netapp.com/zh-cn/announcements/">通知</a>
+              <a target="_self" href="javascript:netapp_mailto()">发送有关此页面的反馈</a>
             </li>
           </ul>
         </div>
