@@ -31,8 +31,7 @@ product-family:
   - title: ONTAP
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: 使用ONTAP 命令行界面和最新版本的ONTAP System Manager (ONTAP 9.7及更高版本)在数据中心部署和管理ONTAP
-      9数据管理软件。
+    summary: 使用ONTAP系统管理器和ONTAP命令行界面在数据中心部署和管理ONTAP 9数据管理软件。
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP自动化
     icon: "./media/icon-api.png"
@@ -49,10 +48,10 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 使用基于阵列的集群和同步复制来保护存储、以实现持续可用性。
     tags: all, tag_data_protection
-  - title: AFF A系列和C系列、FAS、全SAN阵列和交换机
+  - title: AFF A系列和C系列、FAS、全闪存SAN阵列和交换机
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: 使用AFF and FAS 文档页面可查看有关如何安装、维护和升级AFF 和FAS 系统以及集群和存储交换机的信息。
+    summary: 了解如何安装、维护和升级AFF、FAS和全闪存SAN阵列系统以及集群和存储交换机。
     tags: all, tag_systems
   - title: ONTAP技术报告
     icon: "./media/icon-onprem.png"

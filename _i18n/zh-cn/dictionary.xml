@@ -9,13 +9,11 @@
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">数据保护</block>
   <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">系统</block>
   <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
-  <block id="9523e2611916570d7f12959f26121afb" category="sidebar">使用ONTAP 命令行界面和最新版本的ONTAP System Manager (ONTAP 9.7及更高版本)在数据中心部署和管理ONTAP 9数据管理软件。</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用ONTAP REST API和支持技术自动部署和管理ONTAP 存储系统。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">ONTAP 命令</block>
   <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">了解ONTAP 命令行界面中提供的命令。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">使用基于阵列的集群和同步复制来保护存储、以实现持续可用性。</block>
-  <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">使用AFF and FAS 文档页面可查看有关如何安装、维护和升级AFF 和FAS 系统以及集群和存储交换机的信息。</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 虚拟实例、使云存储更经济实惠、智能、合规且安全。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">了解ONTAP 中的事件消息传送系统(EMS)事件。</block>
@@ -31,9 +29,11 @@
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用阵列LUN将E系列和第三方阵列呈现为ONTAP 提供的存储。</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP自动化</block>
-  <block id="3da900eb43adce343acfa768b86ac0f6" category="sidebar">AFF A系列和C系列、FAS、全SAN阵列和交换机</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAP技术报告</block>
   <block id="d723da57939eb06777c90702932db91d" category="sidebar">详细了解ONTAP架构以及如何针对特定工作负载和环境优化ONTAP。</block>
   <block id="27c7ca02055622739ea07ba1243d7683" category="sidebar">ONTAP EMS参考</block>
   <block id="bc5ec30cd3249636e4dc6b792074194d" category="sidebar">ONTAP SAN 主机配置</block>
+  <block id="00b58e662b325b5088592ef47840159f" category="sidebar">使用ONTAP系统管理器和ONTAP命令行界面在数据中心部署和管理ONTAP 9数据管理软件。</block>
+  <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A系列和C系列、FAS、全闪存SAN阵列和交换机</block>
+  <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">了解如何安装、维护和升级AFF、FAS和全闪存SAN阵列系统以及集群和存储交换机。</block>
 </blocks>
