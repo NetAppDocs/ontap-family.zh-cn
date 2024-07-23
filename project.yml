@@ -60,7 +60,7 @@ product-family:
     tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
     summary: 部署ONTAP 虚拟实例、使云存储更经济实惠、智能、合规且安全。
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP EMS参考
