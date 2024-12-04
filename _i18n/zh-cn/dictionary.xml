@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">ONTAP 可帮助您创建存储基础架构、以降低成本、加快关键工作负载的运行速度、并保护和保护数据安全。</block>
   <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">ONTAP 产品文档</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自动化</block>
@@ -32,4 +31,5 @@
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">安装ASA R2系统并使用ONTAP管理数据。</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在运行VMware ESXi虚拟机管理程序的各种商用硬件服务器上将ONTAP 部署为软件定义的存储设备。</block>
   <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">将LUN从第三方阵列和7-模式系统迁移到现代NetApp存储。</block>
+  <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">ONTAP 可帮助您创建存储基础架构、以降低成本、加快关键工作负载的运行速度、并保护和保护数据安全。</block>
 </blocks>
