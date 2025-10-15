@@ -11,8 +11,6 @@ product-family:
     tags: automation
   - title: 数据管理
     tags: management
-  - title: 数据迁移
-    tags: migration
   - title: 数据保护
     tags: protection
   - title: 硬件系统
@@ -27,6 +25,11 @@ product-family:
     icon: "./media/groups_line.png"
     url: "../ontap-systems-family/index.html"
     summary: 了解如何安装、维护和升级全闪存FAS系统、全闪存SAN阵列系统和FAS混合闪存阵列。
+    tags: all, hardware
+  - title: AFX 系统
+    icon: "./media/groups_line.png"
+    url: "../ontap-afx/index.html"
+    summary: 安装您的 AFX 系统并使用ONTAP来管理数据。
     tags: all, hardware
   - title: ASA r2系统
     icon: "./media/groups_line.png"
@@ -73,8 +76,3 @@ product-family:
     url: "../ontap-select/index.html"
     summary: 在运行VMware ESXi虚拟机管理程序的各种商用硬件服务器上将ONTAP 部署为软件定义的存储设备。
     tags: all, management, protection
-  - title: ONTAP 外部 LUN 导入
-    icon: "./media/transition-tools.png"
-    url: "../ontap-fli/index.html"
-    summary: 将LUN从第三方阵列和7-模式系统迁移到现代NetApp存储。
-    tags: all, migration
