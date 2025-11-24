@@ -74,5 +74,5 @@ product-family:
   - title: ONTAP Select
     icon: "./media/server.png"
     url: "../ontap-select/index.html"
-    summary: 在运行VMware ESXi虚拟机管理程序的各种商用硬件服务器上将ONTAP 部署为软件定义的存储设备。
+    summary: 将ONTAP作为软件定义存储设备部署在运行 VMware ESXi 或 KVM 虚拟机管理程序的各种通用硬件服务器上。
     tags: all, management, protection
